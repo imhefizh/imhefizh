@@ -34,10 +34,6 @@ CSS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/imhefizh/imhefizh/main/assets/bar_graph.png)
-
-
- Last Updated on 06/10/2025 17:46:51 UTC
+ Last Updated on 06/10/2025 17:51:34 UTC
 <!--END_SECTION:waka-->
