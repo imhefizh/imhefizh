@@ -20,4 +20,4 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_SHORT_INFO: "False"
           SYMBOL_VERSION: 2
-          TIMELINE: "False"
+          SHOW_LOC_CHART: "False"
