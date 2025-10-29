@@ -1,6 +1,6 @@
 ## What? What are you looking for? Wanna look around? Here what I'm working on:
 
-### 1. ArcMind [🗁](https://github.com/imhefizh/ArcMind)
+### 1. ArcMind [🗁](https://github.com/imhefizh/ArcMind) | Last Updated: 29 Oct 2025
 
 Collection of Journals I wrote during my learning, using LaTex for it. I'm planning to make every journal fun to read as much as possible but it would need more time, for now they are just like rough unstructured note from what I found. It's all Indonesian.
 
