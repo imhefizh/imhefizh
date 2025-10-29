@@ -15,3 +15,7 @@ Another box to keep my Backend experiences, complete my understanding as `Fullst
 ### 4. AI Lab [🗁](https://github.com/imhefizh/AI-Lab)
 
 I'm trying AI models here, making simple app or some interesting app. Using HuggingFace Transformer and IBM Watsonx.
+
+### 4. Database Lab [🗁](https://github.com/imhefizh/Database-Lab)
+
+Here is where I keep my projects and experiments on Database. Using MySQL.
