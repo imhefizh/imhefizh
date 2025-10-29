@@ -4,7 +4,7 @@
 
 Collection of Journals I wrote during my learning, using LaTex for it. I'm planning to make every journal fun to read as much as possible but it would need more time, for now they are just like rough unstructured note from what I found. It's all Indonesian.
 
-_Last update: 29 Oct 2025_
+[Last update: 29 Oct 2025] | LaTex | PDF
 
 ---
 
