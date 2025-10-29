@@ -6,15 +6,11 @@ Collection of Journals I wrote during my learning, using LaTex for it. I'm plann
 
 _Last update: 29 Oct 2025_
 
----
-
 ### 2. FrontEnd Web Lab [🗁](https://github.com/imhefizh/FrontEnd-Web-Lab)
 
 It is just my box where I keep my Frontend experiences, most of them are solution for a challenge. Using pure HTML, CSS, and Javascript. No Framework.
 
 _Last update: 29 Oct 2025_
-
----
 
 ### 3. BackEnd Web Lab [🗁](https://github.com/imhefizh/BackEnd-Web-Lab)
 
@@ -22,15 +18,11 @@ Another box to keep my Backend experiences, complete my understanding as `Fullst
 
 _Last update: 29 Oct 2025_
 
----
-
 ### 4. AI Lab [🗁](https://github.com/imhefizh/AI-Lab)
 
 I'm trying AI models here, making simple app or some interesting app. Using HuggingFace Transformer and IBM Watsonx.
 
 _Last update: 29 Oct 2025_
-
----
 
 ### 5. Database Lab [🗁](https://github.com/imhefizh/Database-Lab)
 
