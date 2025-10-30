@@ -18,4 +18,4 @@ I'm trying AI models here, making simple app or some interesting app. Using Hugg
 
 ### 5. Database Lab [🗁](https://github.com/imhefizh/Database-Lab)
 
-Here is the place where I keep my projects and experiments on Database. Using MySQL.
+Here is the place where I keep my personal projects and experiments on Database. Using MySQL.
