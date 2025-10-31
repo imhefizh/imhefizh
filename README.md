@@ -21,5 +21,5 @@ I'm trying AI models here, making simple app or some interesting app. Using Hugg
 Here is the place where I keep my personal projects and experiments on Database. Using MySQL.
 
 ---
-_Update Log: <!--LOG-AREA-->new commit on **AI-Lab** at 31 Oct 2025<!--END-LOG-->_
+_Update Log: <!--LOG-AREA-->new commit on **Database-Lab** at 31 Oct 2025<!--END-LOG-->_
 
