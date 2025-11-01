@@ -4,7 +4,7 @@
 
 Collection of Journals I wrote during my learning, using LaTex for it. I'm planning to make every journal fun to read as much as possible but it would need more time, for now they are just like rough unstructured note from what I found. It's all Indonesian.
 
-### 2. FrontEnd Lab [🗁](https://github.com/imhefizh/FrontEnd-Web-Lab)
+### 2. FrontEnd Lab [🗁](https://github.com/imhefizh/FrontEnd-Lab)
 
 It is just my box where I keep my Frontend experiences, most of them are solution for a challenge. Using pure HTML, CSS, and Javascript. No Framework.
 
