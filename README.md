@@ -8,7 +8,7 @@ Collection of Journals I wrote during my learning, using LaTex for it. I'm plann
 
 It is just my box where I keep my Frontend experiences, most of them are solution for a challenge. Using pure HTML, CSS, and Javascript. No Framework.
 
-### 3. BackEnd Lab [🗁](https://github.com/imhefizh/BackEnd-Web-Lab)
+### 3. BackEnd Lab [🗁](https://github.com/imhefizh/BackEnd-Lab)
 
 Another box to keep my Backend experiences, complete my understanding as `Fullstack Software Engineer`, also most of them are solution for a challenge I found online. Using Typescript and Python. Gonna learn Go later.
 
