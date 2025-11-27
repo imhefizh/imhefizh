@@ -15,5 +15,3 @@ Technology has always been a space where I explore, learn, and experiment. Each 
 
 ---
 _Update Log: <!--LOG-AREA-->new commit on **ArcMind** at 27 Nov 2025, 21:26:30 Western Indonesia Time<!--END-LOG-->_  
-
-<img src="https://github.com/imhefizh/imhefizh/blob/main/assets/profile-bar.jpg"></img>
