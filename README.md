@@ -1,13 +1,13 @@
-<img src="https://drive.google.com/file/d/1O9owHsZiacG3VMC8oa6vrG0L-IGVMbB-/view?usp=sharing"></img>
+<img src="https://github.com/imhefizh/imhefizh/blob/main/1746353527544.jpg"></img>
 <h1 align="center" style="color:blue; font-size:18px;">Engineer in Training</h1>
 
 <p align="center">Core Repos</p>
 <p align="center">
-  <a href="https://github.com/imhefizh/ArcMind"><img src="https://img.shields.io/badge/ArcMind-A32217?style=for-the-badge" width="120" height="800"></a>
-  <a href="https://github.com/imhefizh/ArcMind"><img src="https://img.shields.io/badge/ArcMind-A32217?style=for-the-badge" width="120" height="800"></a>
-  <a href="https://github.com/imhefizh/ArcMind"><img src="https://img.shields.io/badge/ArcMind-A32217?style=for-the-badge" width="120" height="800"></a>
-  <a href="https://github.com/imhefizh/ArcMind"><img src="https://img.shields.io/badge/ArcMind-A32217?style=for-the-badge" width="120" height="800"></a>
-  <a href="https://github.com/imhefizh/ArcMind"><img src="https://img.shields.io/badge/ArcMind-A32217?style=for-the-badge" width="120" height="800"></a>
+  <a href="https://github.com/imhefizh/ArcMind"><img src="https://img.shields.io/badge/ArcMind-8C1006?style=for-the-badge" width="120" height="800"></a>
+  <a href="https://github.com/imhefizh/ArcMind"><img src="https://img.shields.io/badge/ArcMind-8C1006?style=for-the-badge" width="120" height="800"></a>
+  <a href="https://github.com/imhefizh/ArcMind"><img src="https://img.shields.io/badge/ArcMind-8C1006?style=for-the-badge" width="120" height="800"></a>
+  <a href="https://github.com/imhefizh/ArcMind"><img src="https://img.shields.io/badge/ArcMind-8C1006?style=for-the-badge" width="120" height="800"></a>
+  <a href="https://github.com/imhefizh/ArcMind"><img src="https://img.shields.io/badge/ArcMind-8C1006?style=for-the-badge" width="120" height="800"></a>
 </p>
 
 
