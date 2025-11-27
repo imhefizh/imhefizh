@@ -1,4 +1,4 @@
-<img src="https://github.com/imhefizh/imhefizh/blob/main/1746353527544.jpg"></img>
+<img src="https://github.com/imhefizh/imhefizh/blob/main/assets/profile-bar.jpg"></img>
 <h1 align="center" style="color:blue; font-size:18px;">Engineer in Training</h1>
 
 <p align="center">Core Repos</p>
