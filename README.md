@@ -1,6 +1,6 @@
 <img src="https://github.com/imhefizh/imhefizh/blob/main/assets/profile-bar.jpg"></img>
 
-<p align="center">Core Repos</p>
+<h2 align="center">Core Repos</h2>
 <p align="center">
   <a href="https://github.com/imhefizh/ArcMind"><img src="https://img.shields.io/badge/ArcMind 🗁-8C1006?style=for-the-badge"></a>
   <a href="https://github.com/imhefizh/FrontEnd-Lab"><img src="https://img.shields.io/badge/FrontEnd Lab 🗁-8C1006?style=for-the-badge"></a>
@@ -10,6 +10,15 @@
 </p>
 
 ---
+
+| Repo | Description | Status |
+|----------|--------------|-------------|
+| ArcMind | Collection of Journals I wrote during my learning, using LaTex for it. I'm planning to make every journal fun to read as much as possible but it would need more time, for now they are just like rough unstructured note from what I found. It's all Indonesian. | Frequently Updated |
+| FrontEnd Lab | It is just my box where I keep my Frontend experiences, most of them are solution for a challenge. Using pure HTML, CSS, and Javascript. No Framework. | Rarely Updated |
+| BackEnd Lab | Another box to keep my Backend experiences, complete my understanding as `Fullstack Software Engineer`, also most of them are solution for a challenge I found online. Using Typescript and Python. Gonna learn Go later. | Rarely Updated |
+| AI Lab | I'm trying AI models here, making simple app or some interesting app. Using HuggingFace Transformer and IBM Watsonx. | Rarely Updated |
+| Database Lab | Here is the place where I keep my personal projects and experiments on Database. Using MySQL. | Rarely Updated |
+
 Technology has always been a space where I explore, learn, and experiment. Each project here reflects my curiosity to understand how things work and my drive to build something meaningful, no matter how simple. This profile is not a showcase of perfected skills, but rather a record of ongoing exploration. I believe that growth in technology comes from curiosity, persistence, and sharing, and that is exactly what I aim to capture here.
 
 
